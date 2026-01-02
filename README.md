@@ -25,9 +25,3 @@ The project demonstrates basic web scraping using **requests** and **BeautifulSo
 
 ---
 
-## 📂 Project Structure
-
-.
-├── Check_weather.py # Weather scraping logic
-├── main.py # User input and output
-└── README.md
